@@ -6,8 +6,7 @@
 - 🌱 I’m currently taking some Neo4j certifications having been using it since 2015.
 - :cricket_game: Left arm medium bowler, mainly off cutters but some in-swing to keep the batsman guessing. Play in the BCL.
 
-
-[![My Skills](https://skills.thijs.gg/icons?i=py,mysql,js,html,css,php,git,neo4j)](https://skills.thijs.gg)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 <!---
 StevenMapes/StevenMapes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
