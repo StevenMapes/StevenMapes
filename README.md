@@ -7,6 +7,11 @@
 - :cricket_game: Left arm medium bowler, mainly off cutters but some in-swing to keep the batsman guessing. Play in the BCL.
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![MySQL]([https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=mysql&logoColor=blue](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white))
+![MariaSB]([https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=mariadb&logoColor=blue](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white))
+
+
+
 <!---
 StevenMapes/StevenMapes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
